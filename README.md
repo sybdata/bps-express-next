@@ -1,5 +1,4 @@
-# bps-express-next
-E-commerce platform built with Next.js, Supabase and Web3
+
 
 # Next.js Web3 E-commerce Platform
 
