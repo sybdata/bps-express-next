@@ -6,6 +6,7 @@
 
 ### 1️⃣ Web3-авторизация через OnchainKit
 <img width="1076" alt="Image" src="https://github.com/user-attachments/assets/01642bd1-0973-41c4-8c39-99c52a1392fe" />
+
 **Процесс:**
 - Пользователь нажимает «Войти через Web3».
 - Вызов OnchainKit → UI-окно с выбором кошелька (MetaMask, Coinbase Wallet, WalletConnect).
