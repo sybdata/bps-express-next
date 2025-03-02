@@ -6,6 +6,8 @@
 
 ### 1️⃣ Web3-авторизация через OnchainKit
 
+<img width="508" alt="Image" src="https://github.com/user-attachments/assets/86da242e-bdb6-4f19-904e-311abe8a3eaa" />
+
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/01e9fc40-9aa0-4973-a44e-e7400056711d" />
 
 **Процесс:**
