@@ -8,7 +8,7 @@
 
 ### 1️⃣ Web3-авторизация
 
-<img width="400" alt="Image" src="[https://github.com/user-attachments/assets/01e9fc40-9aa0-4973-a44e-e7400056711d](https://github-production-user-asset-6210df.s3.amazonaws.com/24189833/418378125-86da242e-bdb6-4f19-904e-311abe8a3eaa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250306%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250306T220637Z&X-Amz-Expires=300&X-Amz-Signature=558514fc721633a2d4921308cb41c49bae388f58d740734c4510d33061e89813&X-Amz-SignedHeaders=host)" />
+<img width="500" alt="Image" src="https://bps.express/wp-content/uploads/2025/02/Screenshot-2025-02-07-231406.png" />
 
 **Процесс:**
 - Пользователь нажимает «Войти через Web3».
