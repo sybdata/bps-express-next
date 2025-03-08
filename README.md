@@ -1,5 +1,5 @@
   <p align="center">
-  <img width="800" alt="Image" src="https://ipfs.raribleuserdata.com/ipfs/Qme3XLeAv8mcdrFmkR5EzfD2ggUjBLSiCfEtzVqbDE8RCz/1000003326.webp" />
+  <img width="360" alt="Image" src="https://ipfs.raribleuserdata.com/ipfs/Qme3XLeAv8mcdrFmkR5EzfD2ggUjBLSiCfEtzVqbDE8RCz/1000003326.webp" />
   </p>
 
 
