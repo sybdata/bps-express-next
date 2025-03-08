@@ -1,6 +1,6 @@
 # BPS EXPRESS — Web3 + P2P + Блокчейн =  Open Source 💙
 
-<img width="508" alt="Image" src="https://github.com/user-attachments/assets/86da242e-bdb6-4f19-904e-311abe8a3eaa" />
+<img width="508" alt="Image" src="[https://github.com/user-attachments/assets/86da242e-bdb6-4f19-904e-311abe8a3eaa](https://bps.express/wp-content/uploads/2025/03/Screenshot-2025-03-02-212324.png)" />
 
 🚀 **BPS EXPRESS** — это инновационная платформа для заказа спортивной экипировки с использованием Web3-авторизации, хранения заказов в блокчейне и защиты отзывов от подделки.
 
