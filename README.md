@@ -4,6 +4,11 @@
   <img width="508" alt="Image" src="https://bps.express/wp-content/uploads/2025/03/Screenshot-2025-03-02-212324.png" />
   </p>
 
+  
+  <p align="center">
+  <img width="508" alt="Image" src="https://ipfs.raribleuserdata.com/ipfs/Qme3XLeAv8mcdrFmkR5EzfD2ggUjBLSiCfEtzVqbDE8RCz/1000003326.webp" />
+  </p>
+
 🚀 **BPS EXPRESS** — это инновационная платформа для заказа спортивной экипировки с использованием Web3-авторизации, хранения заказов в блокчейне и защиты отзывов от подделки.
 
 ## 🔥 Основные функции
