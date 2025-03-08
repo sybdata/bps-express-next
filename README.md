@@ -10,7 +10,10 @@
 
 ### 1️⃣ Web3-авторизация
 
+
+<p align="center">
 <img width="500" alt="Image" src="https://bps.express/wp-content/uploads/2025/02/Screenshot-2025-02-07-231406.png" />
+</p>
 
 **Процесс:**
 - Пользователь нажимает «Войти через Web3».
