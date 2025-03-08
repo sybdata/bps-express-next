@@ -1,12 +1,12 @@
+  <p align="center">
+  <img width="508" alt="Image" src="https://ipfs.raribleuserdata.com/ipfs/Qme3XLeAv8mcdrFmkR5EzfD2ggUjBLSiCfEtzVqbDE8RCz/1000003326.webp" />
+  </p>
+
+
 # BPS EXPRESS — Web3 + P2P + Блокчейн =  Open Source 💙
 
 <p align="center">
   <img width="508" alt="Image" src="https://bps.express/wp-content/uploads/2025/03/Screenshot-2025-03-02-212324.png" />
-  </p>
-
-  
-  <p align="center">
-  <img width="508" alt="Image" src="https://ipfs.raribleuserdata.com/ipfs/Qme3XLeAv8mcdrFmkR5EzfD2ggUjBLSiCfEtzVqbDE8RCz/1000003326.webp" />
   </p>
 
 🚀 **BPS EXPRESS** — это инновационная платформа для заказа спортивной экипировки с использованием Web3-авторизации, хранения заказов в блокчейне и защиты отзывов от подделки.
@@ -77,29 +77,8 @@
   - Улучшенная система поиска товаров
   - AI-аналитика отзывов
 
-📩 **Контакты для сотрудничества:** [bps-express.com](https://bps-express.com/)
+📩 **Контакты для сотрудничества:** [bps-express](https://bps.express/contact)
 
-
-# Next.js Web3 E-commerce Platform
-
-A modern e-commerce platform built with Next.js, Supabase, and Web3 technologies.
-
-## Features
-
-- High-performance storefront with Next.js
-- Web3 authentication using OnchainKit
-- Cryptocurrency payments via Coinbase Commerce
-- Verified reviews stored on Arweave
-- Serverless backend with Supabase
-
-## Technology Stack
-
-- **Frontend:** Next.js, React, Tailwind CSS
-- **Backend:** Supabase (PostgreSQL, API)
-- **Authentication:** Web3 auth (OnchainKit)
-- **Payments:** Coinbase Commerce
-- **Hosting:** Vercel (frontend) + Supabase (database)
-- **Reviews:** Arweave blockchain storage
 
 ## Getting Started
 
